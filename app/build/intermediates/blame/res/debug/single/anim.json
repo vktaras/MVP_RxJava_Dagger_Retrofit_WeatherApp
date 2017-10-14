@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/taras/.android/build-cache/81da22e050c8ce93bab4eee0848bf4a04232f31e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/taras/.android/build-cache/81da22e050c8ce93bab4eee0848bf4a04232f31e/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/taras/.android/build-cache/81da22e050c8ce93bab4eee0848bf4a04232f31e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/taras/.android/build-cache/81da22e050c8ce93bab4eee0848bf4a04232f31e/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

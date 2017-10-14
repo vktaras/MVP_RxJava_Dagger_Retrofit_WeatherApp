@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_reorder_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_reorder_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_view_module_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_view_module_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_logo.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_storm.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_storm.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_border_black_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_search_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_light_rain.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_light_rain.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_swap_horiz_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_swap_horiz_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_snow.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_snow.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_toc_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_toc_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_clear.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_clear.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_white_36dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_favorite_white_36dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_snow.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_snow.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_black_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_light_clouds.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_light_clouds.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_clouds.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_clouds.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_border_white_36dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_favorite_border_white_36dp.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_storm.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_storm.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_light_clouds.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_light_clouds.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_fog.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_fog.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_fog.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_fog.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_rain.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_rain.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cloudy.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_cloudy.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_light_rain.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_light_rain.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/art_rain.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/art_rain.png"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_gps_fixed_white_24dp.png",
+        "source": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/src/main/res/drawable-xxhdpi/ic_gps_fixed_white_24dp.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/taras/.android/build-cache/6e3e186597b9021ec4f0cb219fa8b064a8f1d2b7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

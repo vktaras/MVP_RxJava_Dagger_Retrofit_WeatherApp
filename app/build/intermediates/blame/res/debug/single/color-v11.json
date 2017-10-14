@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
