@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.taras_vk.weatherapp.cityweathermain.CityWeatherMainActivity"
+            android:name="com.taras_vk.weatherapp.CityWeatherMainActivity"
             android:windowSoftInputMode="adjustPan" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,8 +31,7 @@
             </intent-filter>
         </activity>
 >
-        <activity android:name="com.taras_vk.weatherapp.cityweatherdetails.view.CityWeatherDetailsActivity" />
-        <activity android:name="com.taras_vk.weatherapp.cityweatherdetails.view.CityWeatherFavoriteActivity" />
+        <activity android:name="com.taras_vk.weatherapp.mvp.details.view.CityWeatherDetailsActivity" />
     </application>
 
 </manifest>

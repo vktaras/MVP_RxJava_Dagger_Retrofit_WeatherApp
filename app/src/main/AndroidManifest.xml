@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".cityweathermain.CityWeatherMainActivity"
+            android:name=".MainActivity"
             android:windowSoftInputMode="adjustPan" >
 
             <intent-filter>
@@ -21,8 +21,7 @@
             </intent-filter>
 
         </activity>>
-        <activity android:name=".cityweatherdetails.view.CityWeatherDetailsActivity" />
-        <activity android:name=".cityweatherdetails.view.CityWeatherFavoriteActivity"></activity>
+        <activity android:name=".mvp.details.view.CityWeatherDetailsActivity" />
     </application>
 
 </manifest>

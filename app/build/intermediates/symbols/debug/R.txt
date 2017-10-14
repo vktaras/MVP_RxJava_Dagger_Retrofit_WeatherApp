@@ -762,7 +762,6 @@ int id action_menu_presenter 0x7f0d0003
 int id action_mode_bar 0x7f0d0062
 int id action_mode_bar_stub 0x7f0d0061
 int id action_mode_close_button 0x7f0d0044
-int id action_nearby 0x7f0d00aa
 int id action_search 0x7f0d00a8
 int id action_text 0x7f0d0091
 int id actions 0x7f0d009f
@@ -902,7 +901,7 @@ int id time 0x7f0d009a
 int id title 0x7f0d004b
 int id titleDividerNoCustom 0x7f0d005a
 int id title_template 0x7f0d0058
-int id toggle_list 0x7f0d00ab
+int id toggle_list 0x7f0d00aa
 int id toolbar 0x7f0d0075
 int id top 0x7f0d0030
 int id topPanel 0x7f0d0057

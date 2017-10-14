@@ -4,7 +4,7 @@ import com.taras_vk.weatherapp.BuildConfig;
 import com.taras_vk.weatherapp.data.local.DatabaseHelper;
 import com.taras_vk.weatherapp.data.memory.MemoryCache;
 import com.taras_vk.weatherapp.injection.scopes.PerApplication;
-import com.taras_vk.weatherapp.model.CityWeather;
+import com.taras_vk.weatherapp.models.CityWeather;
 
 import java.util.List;
 

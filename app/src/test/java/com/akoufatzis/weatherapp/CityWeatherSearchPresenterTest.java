@@ -1,9 +1,9 @@
 package com.taras_vk.weatherapp;
 
-import com.taras_vk.weatherapp.cityweathersearch.CityWeatherSearchContract;
-import com.taras_vk.weatherapp.cityweathersearch.presenter.CityWeatherSearchPresenter;
+import com.taras_vk.weatherapp.mvp.search.CityWeatherSearchContract;
+import com.taras_vk.weatherapp.mvp.search.presenter.CityWeatherSearchPresenter;
 import com.taras_vk.weatherapp.data.remote.DataManager;
-import com.taras_vk.weatherapp.model.CityWeather;
+import com.taras_vk.weatherapp.models.CityWeather;
 import com.taras_vk.weatherapp.rules.RxJavaTestRule;
 
 import org.junit.After;

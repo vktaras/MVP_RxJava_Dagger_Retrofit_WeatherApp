@@ -24,12 +24,12 @@
         "source": "/Users/taras/.android/build-cache/81da22e050c8ce93bab4eee0848bf4a04232f31e/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",

@@ -1,6 +1,6 @@
 package com.taras_vk.weatherapp.data.remote;
 
-import com.taras_vk.weatherapp.model.CityWeather;
+import com.taras_vk.weatherapp.models.CityWeather;
 
 import retrofit2.http.GET;
 import retrofit2.http.Query;

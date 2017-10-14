@@ -4,7 +4,7 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.support.annotation.NonNull;
 
-import com.taras_vk.weatherapp.model.CityWeather;
+import com.taras_vk.weatherapp.models.CityWeather;
 
 /**
  * Created by taras on 10/14/17.

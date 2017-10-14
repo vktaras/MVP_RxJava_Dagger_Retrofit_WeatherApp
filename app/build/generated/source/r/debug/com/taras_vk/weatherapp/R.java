@@ -2867,7 +2867,6 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0d0062;
         public static final int action_mode_bar_stub=0x7f0d0061;
         public static final int action_mode_close_button=0x7f0d0044;
-        public static final int action_nearby=0x7f0d00aa;
         public static final int action_search=0x7f0d00a8;
         public static final int action_text=0x7f0d0091;
         public static final int actions=0x7f0d009f;
@@ -3007,7 +3006,7 @@ containing a value of this type.
         public static final int title=0x7f0d004b;
         public static final int titleDividerNoCustom=0x7f0d005a;
         public static final int title_template=0x7f0d0058;
-        public static final int toggle_list=0x7f0d00ab;
+        public static final int toggle_list=0x7f0d00aa;
         public static final int toolbar=0x7f0d0075;
         public static final int top=0x7f0d0030;
         public static final int topPanel=0x7f0d0057;
@@ -3169,8 +3168,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0900a5;
         public static final int Animation_AppCompat_DropDownUp=0x7f0900a6;
         public static final int Animation_Design_BottomSheetDialog=0x7f0900a7;
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f090040;
         public static final int AppTheme_Base=0x7f0900a8;
         public static final int Base_AlertDialog_AppCompat=0x7f0900a9;

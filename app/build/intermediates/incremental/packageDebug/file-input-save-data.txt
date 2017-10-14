@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 14 22:37:16 EEST 2017
+#Sat Oct 14 23:09:43 EEST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/res/resources-debug.ap_/res/layout-v16/notification_template_custom_big.xml
 14.set=ANDROID_RESOURCE

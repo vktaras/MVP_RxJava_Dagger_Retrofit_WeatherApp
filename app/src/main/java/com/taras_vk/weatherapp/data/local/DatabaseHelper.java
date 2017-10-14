@@ -2,7 +2,7 @@ package com.taras_vk.weatherapp.data.local;
 
 import android.database.sqlite.SQLiteDatabase;
 
-import com.taras_vk.weatherapp.model.CityWeather;
+import com.taras_vk.weatherapp.models.CityWeather;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-#Sat Oct 14 22:37:15 EEST 2017
+#Sat Oct 14 23:09:43 EEST 2017
 base.0=/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/taras/AndroidStudioProjects/WeatherApp_MVP_RxJava/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

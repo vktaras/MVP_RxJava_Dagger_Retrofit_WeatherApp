@@ -2,6 +2,9 @@
 package com.taras_vk.weatherapp.cityweathermain;
 
 import android.view.View;
+
+import com.taras_vk.weatherapp.MainActivity;
+
 import butterknife.Unbinder;
 import butterknife.internal.Finder;
 import butterknife.internal.ViewBinder;
@@ -9,7 +12,7 @@ import java.lang.IllegalStateException;
 import java.lang.Object;
 import java.lang.Override;
 
-public class CityWeatherMainActivity$$ViewBinder<T extends CityWeatherMainActivity> implements ViewBinder<T> {
+public class CityWeatherMainActivity$$ViewBinder<T extends MainActivity> implements ViewBinder<T> {
   @Override
   public Unbinder bind(final Finder finder, final T target, Object source) {
     InnerUnbinder unbinder = createUnbinder(target);
@@ -25,7 +28,7 @@ public class CityWeatherMainActivity$$ViewBinder<T extends CityWeatherMainActivi
     return new InnerUnbinder(target);
   }
 
-  protected static class InnerUnbinder<T extends CityWeatherMainActivity> implements Unbinder {
+  protected static class InnerUnbinder<T extends MainActivity> implements Unbinder {
     private T target;
 
     protected InnerUnbinder(T target) {
